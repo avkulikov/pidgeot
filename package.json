@@ -3,7 +3,6 @@
   "author": "Artem Kulikov <kulikoff.4rtjom@yandex.ru",
   "version": "0.1.0",
   "private": "true",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel index.pug",
     "build": "parcel build index.pug"
