@@ -1,0 +1,18 @@
+{
+  "name": "pidgeot",
+  "author": "Artem Kulikov <kulikoff.4rtjom@yandex.ru",
+  "version": "0.1.0",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.pug",
+    "build": "parcel build index.pug"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-pug": "^2.6.0",
+    "@parcel/transformer-stylus": "^2.6.0",
+    "parcel": "^2.6.0"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
